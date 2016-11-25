@@ -1,0 +1,30 @@
+Finger: Thumb
+     Metacarpal     X = 0.00     Y = 0.00     Z = 0.00
+     Proximal     X = 0.60     Y = -0.73     Z = 0.33
+     Middle     X = 0.12     Y = -0.78     Z = 0.61
+     Distal     X = 0.13     Y = -0.78     Z = 0.61
+
+Finger: Index
+     Metacarpal     X = 0.22     Y = -0.71     Z = 0.67
+     Proximal     X = -0.01     Y = -0.92     Z = 0.39
+     Middle     X = -0.01     Y = -0.90     Z = 0.43
+     Distal     X = -0.02     Y = -0.89     Z = 0.46
+
+Finger: Middle
+     Metacarpal     X = 0.09     Y = -0.74     Z = 0.67
+     Proximal     X = 0.00     Y = -0.89     Z = 0.45
+     Middle     X = 0.00     Y = -0.88     Z = 0.48
+     Distal     X = 0.00     Y = -0.86     Z = 0.51
+
+Finger: Ring
+     Metacarpal     X = -0.06     Y = -0.75     Z = 0.66
+     Proximal     X = 0.05     Y = -0.89     Z = 0.46
+     Middle     X = 0.05     Y = -0.87     Z = 0.49
+     Distal     X = 0.06     Y = -0.85     Z = 0.52
+
+Finger: Pinky
+     Metacarpal     X = -0.20     Y = -0.77     Z = 0.61
+     Proximal     X = 0.03     Y = -0.91     Z = 0.40
+     Middle     X = 0.04     Y = -0.89     Z = 0.45
+     Distal     X = 0.05     Y = -0.87     Z = 0.48
+
